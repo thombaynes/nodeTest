@@ -24,10 +24,14 @@ In your project directory, create a ```data``` folder (or anywhere else, just kn
 mongod --dbpath ~/nodetest/data
 ```
 
-Run the script
+Run the app
 ```bash
 npm start
 ```
+
+## The Test
+
+Write tests for this application, building on the skeleton that has been provided for you. All back-end tests are stored in the ```test``` directory, and can be run using the following commands
 
 Run the tests
 ```bash
@@ -38,3 +42,10 @@ Get the test coverage
 ```bash
 npm run coverage
 ```
+
+# Feel free to use any other npm libraries of your choosing, and/or not use what libraries are included.
+# Feel free to rewrite the application code itself.
+
+## Submitting the test
+
+Either provide the contents of the ```test``` directory, or clone the repository yourself on GitHub, and provide the URL of the repo.
