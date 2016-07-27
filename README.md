@@ -26,15 +26,15 @@ mongod --dbpath ~/nodetest/data
 
 Run the script
 ```bash
-node app
+npm start
 ```
 
 Run the tests
 ```bash
-node run test
+npm run test
 ```
 
 Get the test coverage
 ```bash
-node run coverage
+npm run coverage
 ```
