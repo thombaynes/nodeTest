@@ -31,7 +31,9 @@ npm start
 
 ## The Test
 
-Write tests for this application, building on the skeleton that has been provided for you. All back-end tests are stored in the ```test``` directory, and can be run using the following commands
+Write tests for this application, building on the skeleton that has been provided for you. All back-end tests are stored in the ```test``` directory, and can be run using the following commands.
+
+The tests should, for each file, be sure to test the most important parts of that file. We will be looking to see that the tests pass, what they test, and what they don't test.
 
 Run the tests
 ```bash
