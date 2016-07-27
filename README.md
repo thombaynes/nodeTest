@@ -43,8 +43,8 @@ Get the test coverage
 npm run coverage
 ```
 
-# Feel free to use any other npm libraries of your choosing, and/or not use what libraries are included.
-# Feel free to rewrite the application code itself.
+* Feel free to use any other npm libraries of your choosing, and/or not use what libraries are included.
+* Feel free to rewrite the application code itself.
 
 ## Submitting the test
 
